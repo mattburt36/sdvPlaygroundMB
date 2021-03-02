@@ -9,3 +9,16 @@ This folder contains notes about SDV tutorials.
             -git rebase: allows the user to tidy the code and make the branching more linear, 
              yet continues to hold an identity for that branch. 
              
+COMMENTS
+  - Keep comments clean and clear and concise in explaining what functions do ETC. 
+  - Let functions and the such explain themselves ie; 
+                                                        if(wage > 50000 && hasChild = true) 
+                                                         [
+                                                             isAbleToRecieveChildBenefit
+                                                         ]
+  - Keep comments simple and informative. 
+  - Sometimes clarification in comments is neccesary. 
+  - Some comments may be used to warn the user of changes that may occur based on functions ETC. 
+  - To-Do comments, these are important to use to keep track of where you're currently changing code. 
+  - Keep legal comments, Copyright ETC. As to protect your work.  
+    
